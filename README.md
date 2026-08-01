@@ -46,3 +46,12 @@ in detecting vulnerabilities, reducing false positives, and integrating into Dev
 
 **Tags:** Software Security, Static Analysis, Secure Development  
 
+---
+
+### 6. [Federated Unlearning Framework for Privacy-Preserving Inter-Hospital Healthcare Networks in Smart Cities (2025)](./Federated_Unlearning_Framework_for_Healthcare_Networks.pdf)
+
+Co-authored a research paper proposing a federated unlearning framework for privacy-preserving healthcare networks in smart cities. The study explores secure machine learning techniques that enable hospitals to collaboratively train AI models while allowing sensitive data to be effectively removed when required, supporting regulatory compliance and patient privacy.
+
+**Reference Implementation:** https://github.com/farhussaini/adv-hybrid-system
+
+**Tags:** Federated Learning, Machine Learning, Healthcare AI, Privacy, Smart Cities, Data Security
